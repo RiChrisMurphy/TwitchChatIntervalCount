@@ -1,3 +1,8 @@
+Installation:
+------------
+
+Clone the repository or download the zip
+
 Simple Python command line tool to count up the number of chat messages within interval time periods. 
 Potential use cases are finding action clips based on volume of chat. 
 
