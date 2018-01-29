@@ -11,7 +11,7 @@ Dependencies are requests, dateutil.parser, datetime, pandas, sys
 Input:
 -----------
 
-Input: Python hello.py VodID ClientID Interval
+Input: python hello.py VodID ClientID Interval
 
 Interval is time in seconds, (i.e. 6 minutes is 360 etc)
 
