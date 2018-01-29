@@ -13,7 +13,7 @@ Input:
 
 Input: Python hello.py VodID ClientID Interval
 
-Interval is time in seconds, (i.e. 5 minutes is 360 etc)
+Interval is time in seconds, (i.e. 6 minutes is 360 etc)
 
 Output:
 -----------
