@@ -1,6 +1,4 @@
 import requests
-import dateutil.parser
-from datetime import datetime
 import pandas as pd
 import sys
 
